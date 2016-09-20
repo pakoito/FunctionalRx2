@@ -12,21 +12,21 @@ FunctionalRx uses RxJava as a backend for their functions and helpers. It's mean
 
 A description and examples of each construct can be found in the readme of their repositories:
 
-(RxTuples)[https://github.com/pakoito/RxTuples]
+[RxTuples](https://github.com/pakoito/RxTuples)
 
-(RxSealedUnions)[https://github.com/pakoito/RxSealedUnions]
+[RxSealedUnions](https://github.com/pakoito/RxSealedUnions)
 
-(RxComprehensions)[https://github.com/pakoito/RxComprehensions]
+[RxComprehensions](https://github.com/pakoito/RxComprehensions)
 
-(RxActions)[https://github.com/pakoito/RxActions]
+[RxActions](https://github.com/pakoito/RxActions)
 
-(RxFunctions)[https://github.com/pakoito/RxFunctions]
+[RxFunctions](https://github.com/pakoito/RxFunctions)
 
-(RxCurrying)[https://github.com/pakoito/RxCurrying]
+[RxCurrying](https://github.com/pakoito/RxCurrying)
 
-(RxPartialApplication)[https://github.com/pakoito/RxPartialApplication]
+[RxPartialApplication](https://github.com/pakoito/RxPartialApplication)
 
-(RxMemoization)[https://github.com/pakoito/RxMemoization]
+[RxMemoization](https://github.com/pakoito/RxMemoization)
 
 ##Distribution
 
