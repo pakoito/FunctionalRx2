@@ -12,21 +12,21 @@ FunctionalRx uses RxJava as a backend for their functions and helpers. It's mean
 
 A description and examples of each construct can be found in the readme of their repositories:
 
-[RxTuples](https://github.com/pakoito/RxTuples)
+[RxTuples](https://github.com/pakoito/RxTuples) - Simple tuples to use with RxJava
 
-[RxSealedUnions](https://github.com/pakoito/RxSealedUnions)
+[RxSealedUnions](https://github.com/pakoito/RxSealedUnions) - Tagged Unions for the RxJava aesthete
 
-[RxComprehensions](https://github.com/pakoito/RxComprehensions)
+[RxComprehensions](https://github.com/pakoito/RxComprehensions) - Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and switchMaps
 
-[RxActions](https://github.com/pakoito/RxActions)
+[RxActions](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava
 
-[RxFunctions](https://github.com/pakoito/RxFunctions)
+[RxFunctions](https://github.com/pakoito/RxFunctions) - Advanced Function composition to use with RxJava
 
-[RxCurrying](https://github.com/pakoito/RxCurrying)
+[RxCurrying](https://github.com/pakoito/RxCurrying) - Simple currying for FuncN and ActionN on RxJava
 
-[RxPartialApplication](https://github.com/pakoito/RxPartialApplication)
+[RxPartialApplication](https://github.com/pakoito/RxPartialApplication) - Simple partial application for FuncN and ActionN on RxJava
 
-[RxMemoization](https://github.com/pakoito/RxMemoization)
+[RxMemoization](https://github.com/pakoito/RxMemoization) - Simple Function result caching for RxJava
 
 ##Distribution
 
