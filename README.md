@@ -10,7 +10,9 @@ FunctionalRx uses RxJava as a backend for their functions and helpers. It's mean
 
 # Usage
 
-A description and examples of each construct can be found in the readme of their repositories:
+An overview of the libraries can be read at [Building a Functional Toolset on Android](http://www.pacoworks.com/2016/05/25/building-a-functional-toolset-for-android/) on my blog.
+
+A thorough description and examples of each construct can be found in the readme of their repositories:
 
 [RxTuples](https://github.com/pakoito/RxTuples) - Simple tuples to use with RxJava
 
