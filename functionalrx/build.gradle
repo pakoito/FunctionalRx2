@@ -30,7 +30,7 @@ dependencies {
     compile 'com.github.pakoito:RxCurrying:1.1.0'
     compile 'com.github.pakoito:RxFunctions:1.0.0'
     compile 'com.github.pakoito:RxActions:1.0.0'
-    compile 'com.github.pakoito:RxComprehensions:1.0.0'
+    compile 'com.github.pakoito.RxComprehensions:rxcomprehensions:1.0.0'
 }
 
 install {
