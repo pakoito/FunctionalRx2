@@ -25,7 +25,7 @@ targetCompatibility = 1.7
 dependencies {
     compile 'com.github.pakoito:RxTuples2:1.0.0'
     compile 'com.github.pakoito:RxSealedUnions2:1.0.0'
-    compile 'com.github.pakoito.RxComprehensions:rxcomprehensions2:1.1.0'
+    compile 'com.github.pakoito.RxComprehensions:rxcomprehensions2:1.2.0'
 //    compile 'com.github.pakoito:RxMemoization:1.1.0'
 //    compile 'com.github.pakoito:RxPartialApplication:1.1.0'
 //    compile 'com.github.pakoito:RxCurrying:1.1.0'
