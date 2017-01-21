@@ -25,11 +25,11 @@ A thorough description and examples of each construct can be found in the readme
 
 [RxPartialApplication2](https://github.com/pakoito/RxPartialApplication2) - Simple partial application for FunctionN and ConsumerN on RxJava
 
+[RxCurrying2](https://github.com/pakoito/RxCurrying2) - Simple currying for FuncN and ActionN on RxJava
+
 [RxConsumers](https://github.com/pakoito/RxConsumers) - Simple ConsumerN composition to use with RxJava
 
 [RxFunctions2](https://github.com/pakoito/RxFunctions2) - Advanced Function composition to use with RxJava
-
-TBD - [RxCurrying2](https://github.com/pakoito/RxCurrying2) - Simple currying for FuncN and ActionN on RxJava
 
 TBD - [RxMemoization2](https://github.com/pakoito/RxMemoization2) - Simple Function result caching for RxJava
 
