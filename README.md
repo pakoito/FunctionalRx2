@@ -21,17 +21,17 @@ A thorough description and examples of each construct can be found in the readme
 
 [RxSealedUnions](https://github.com/pakoito/RxSealedUnions) - Tagged Unions for the RxJava aesthete
 
-TBD - [RxComprehensions](https://github.com/pakoito/RxComprehensions) - Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and switchMaps
+TBD - [RxComprehensions2](https://github.com/pakoito/RxComprehensions2) - Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and switchMaps
 
-TDB - [RxActions](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava
+TDB - [RxActions2](https://github.com/pakoito/RxActions2) - Simple ActionN composition to use with RxJava
 
-TBD - [RxFunctions](https://github.com/pakoito/RxFunctions) - Advanced Function composition to use with RxJava
+TBD - [RxFunctions2](https://github.com/pakoito/RxFunctions2) - Advanced Function composition to use with RxJava
 
-TBD - [RxCurrying](https://github.com/pakoito/RxCurrying) - Simple currying for FuncN and ActionN on RxJava
+TBD - [RxCurrying2](https://github.com/pakoito/RxCurrying2) - Simple currying for FuncN and ActionN on RxJava
 
-TBD - [RxPartialApplication](https://github.com/pakoito/RxPartialApplication) - Simple partial application for FuncN and ActionN on RxJava
+TBD - [RxPartialApplication2](https://github.com/pakoito/RxPartialApplication2) - Simple partial application for FuncN and ActionN on RxJava
 
-TBD - [RxMemoization](https://github.com/pakoito/RxMemoization) - Simple Function result caching for RxJava
+TBD - [RxMemoization2](https://github.com/pakoito/RxMemoization2) - Simple Function result caching for RxJava
 
 ##Distribution
 
