@@ -1,6 +1,9 @@
-# FunctionalRx
+# FunctionalRx2
 
-FunctionalRx is a collection of constructs to simplify a functional programming approach to development on Java and Android.
+FunctionalRx2 is a collection of constructs to simplify a functional programming approach to development on Java and Android.
+
+For the RxJava 1.X version please go to [FunctionalRx](https://github.com/pakoito/FunctionalRx).
+
 
 # Rationale
 
@@ -18,23 +21,21 @@ A thorough description and examples of each construct can be found in the readme
 
 [RxSealedUnions](https://github.com/pakoito/RxSealedUnions) - Tagged Unions for the RxJava aesthete
 
-[RxComprehensions](https://github.com/pakoito/RxComprehensions) - Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and switchMaps
+TBD - [RxComprehensions](https://github.com/pakoito/RxComprehensions) - Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and switchMaps
 
-[RxActions](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava
+TDB - [RxActions](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava
 
-[RxFunctions](https://github.com/pakoito/RxFunctions) - Advanced Function composition to use with RxJava
+TBD - [RxFunctions](https://github.com/pakoito/RxFunctions) - Advanced Function composition to use with RxJava
 
-[RxCurrying](https://github.com/pakoito/RxCurrying) - Simple currying for FuncN and ActionN on RxJava
+TBD - [RxCurrying](https://github.com/pakoito/RxCurrying) - Simple currying for FuncN and ActionN on RxJava
 
-[RxPartialApplication](https://github.com/pakoito/RxPartialApplication) - Simple partial application for FuncN and ActionN on RxJava
+TBD - [RxPartialApplication](https://github.com/pakoito/RxPartialApplication) - Simple partial application for FuncN and ActionN on RxJava
 
-[RxMemoization](https://github.com/pakoito/RxMemoization) - Simple Function result caching for RxJava
+TBD - [RxMemoization](https://github.com/pakoito/RxMemoization) - Simple Function result caching for RxJava
 
 ##Distribution
 
-Each library can be added individually, or as a group by adding FunctionalRx.
-
-###RxJava 1.X
+Each library can be added individually, or as a group by adding FunctionalRx2.
 
 Add as a dependency to your `build.gradle`
 ```groovy
@@ -46,7 +47,7 @@ repositories {
     
 dependencies {
     ...
-    compile 'com.github.pakoito:FunctionalRx:1.0.0'
+    compile 'com.github.pakoito:FunctionalRx2:1.0.0'
     ...
 }
 ```
@@ -62,18 +63,14 @@ or to your `pom.xml`
 
 <dependency>
     <groupId>com.github.pakoito</groupId>
-    <artifactId>FunctionalRx</artifactId>
+    <artifactId>FunctionalRx2</artifactId>
     <version>1.0.0</version>
 </dependency>
 ```
 
-###RxJava 2.X
-
-TBD
-
 ##License
 
-Copyright (c) pakoito 2016
+Copyright (c) pakoito 2017
 
 The Apache Software License, Version 2.0
 
