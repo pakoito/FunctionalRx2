@@ -25,7 +25,7 @@ A thorough description and examples of each construct can be found in the readme
 
 [RxPartialApplication2](https://github.com/pakoito/RxPartialApplication2) - Simple partial application for FunctionN and ConsumerN on RxJava
 
-TDB - [RxActions2](https://github.com/pakoito/RxActions2) - Simple ActionN composition to use with RxJava
+[RxConsumers](https://github.com/pakoito/RxConsumers) - Simple ConsumerN composition to use with RxJava
 
 TBD - [RxFunctions2](https://github.com/pakoito/RxFunctions2) - Advanced Function composition to use with RxJava
 
