@@ -17,11 +17,11 @@ An overview of the libraries can be read at [Building a Functional Toolset on An
 
 A thorough description and examples of each construct can be found in the readme of their repositories:
 
-[RxTuples](https://github.com/pakoito/RxTuples) - Simple tuples to use with RxJava
+[RxTuples2](https://github.com/pakoito/RxTuples2) - Simple tuples to use with RxJava
 
-[RxSealedUnions](https://github.com/pakoito/RxSealedUnions) - Tagged Unions for the RxJava aesthete
+[RxSealedUnions2](https://github.com/pakoito/RxSealedUnions2) - Tagged Unions for the RxJava aesthete
 
-TBD - [RxComprehensions2](https://github.com/pakoito/RxComprehensions2) - Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and switchMaps
+[RxComprehensions](https://github.com/pakoito/RxComprehensions) - Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and switchMaps
 
 TDB - [RxActions2](https://github.com/pakoito/RxActions2) - Simple ActionN composition to use with RxJava
 
