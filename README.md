@@ -13,7 +13,7 @@ FunctionalRx uses RxJava as a backend for their functions and helpers. It's mean
 
 # Usage
 
-An overview of the libraries can be read at [Building a Functional Toolset on Android](http://www.pacoworks.com/2016/05/25/building-a-functional-toolset-for-android/) on my blog.
+An overview of the libraries can be read at [Building a Functional Toolset on Android](http://www.pacoworks.com/2016/05/25/building-a-functional-toolset-for-android/) on my blog. If you want to see them in action, watch my presentation on [Fully Reactive Apps](http://www.pacoworks.com/2016/11/02/fully-reactive-apps-at-droidcon-uk-2016-2/) or visit the [FunctionalAndroidReference](https://github.com/pakoito/FunctionalAndroidReference) sample project.
 
 A thorough description and examples of each construct can be found in the readme of their repositories:
 
