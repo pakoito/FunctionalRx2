@@ -2,6 +2,8 @@
 
 FunctionalRx2 is a collection of constructs to simplify a functional programming approach to development on Java and Android.
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FunctionalRx2-blue.svg?style=flat-square)](https://android-arsenal.com/details/1/5147)
+
 For the RxJava 1.X version please go to [FunctionalRx](https://github.com/pakoito/FunctionalRx).
 
 
