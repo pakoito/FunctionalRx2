@@ -47,7 +47,17 @@ repositories {
     
 dependencies {
     ...
-    compile 'com.github.pakoito:FunctionalRx2:1.0.0'
+    compile 'com.github.pakoito:FunctionalRx2:1.1.0'
+
+    // This version includes:
+    // compile 'com.github.pakoito:RxTuples2:1.0.0'
+    // compile 'com.github.pakoito:RxSealedUnions2:1.0.0'
+    // compile 'com.github.pakoito.RxComprehensions:rxcomprehensions2:1.3.0'
+    // compile 'com.github.pakoito:RxMemoization2:1.0.0'
+    // compile 'com.github.pakoito:RxPartialApplication2:1.0.0'
+    // compile 'com.github.pakoito:RxCurrying2:1.0.0'
+    // compile 'com.github.pakoito:RxFunctions2:1.0.0'
+    // compile 'com.github.pakoito:RxConsumers:1.0.0'
     ...
 }
 ```
@@ -64,7 +74,7 @@ or to your `pom.xml`
 <dependency>
     <groupId>com.github.pakoito</groupId>
     <artifactId>FunctionalRx2</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
 </dependency>
 ```
 
